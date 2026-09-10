@@ -1,10 +1,6 @@
 # Local Technical Document RAG Assistant 
  <img width="1916" height="937" alt="image" src="https://github.com/user-attachments/assets/ef8d5433-4b76-4dfe-87b5-9890e9778688" />
 
-## 📺 Demo Videosu
-
-[![Uygulama Demo Videosu](https://img.youtube.com/vi/RnslqVKXL8U/hqdefault.jpg)](https://www.youtube.com/watch?v=RnslqVKXL8U)
-
 > 👆 *Uygulamanın çalışmasını ve arayüzünü izlemek için görselin üzerine tıklayın.*
 Tamamen yerel donanimda calisan, veri gizliligini koruyan teknik dokuman asistanidir. 
  
